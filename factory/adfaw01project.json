@@ -1,0 +1,9 @@
+{
+	"name": "adfaw01project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1408be2-5f55-4575-8c24-4aa5c6d9da66",
+		"tenantId": "5f0c202a-a440-40aa-a79f-3a2076da8b22"
+	}
+}
