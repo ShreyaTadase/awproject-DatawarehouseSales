@@ -1,6 +1,7 @@
 {
-	"name": "pipeline_bronze_ingestt",
+	"name": "pipeline_bronze_ingest",
 	"properties": {
+		"description": "wait",
 		"activities": [
 			{
 				"name": "Wait1",
